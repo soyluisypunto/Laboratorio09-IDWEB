@@ -1,0 +1,10 @@
+#contenedor-grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+.imagen{
+    border: 2.5px solid black;
+    padding: 100px;
+    margin: 20px;
+    width: 100px;
+}

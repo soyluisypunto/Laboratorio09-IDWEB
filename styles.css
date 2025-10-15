@@ -1,0 +1,19 @@
+#contenedor{
+    display: flex;
+    justify-content: space-around;
+}
+.clase1{
+    border: 2px solid black;
+    margin: 2.5px;
+    padding: 5px 2.5px;
+}
+.clase2{
+    border: 2px solid blue;
+    margin: 2.5px;
+    padding: 5px 2.5px;
+}
+.clase3{
+    border: 2px solid violet;
+    margin: 2.5px;
+    padding: 5px 2.5px;
+}
